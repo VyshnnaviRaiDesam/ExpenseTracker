@@ -1,3 +1,0 @@
-dress,1500.0,shopping,31/03/26
-headphones,2000.0,wishlist,1/4/26
-hand cream,500.0,skincare,5/1/07
